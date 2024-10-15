@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mareddy Lohith Reddy</h1>
-<h3 align="center">💻 Full-Stack Developer | 🧩 Data Structures Enthusiast | ☕ Java Programmer | 🧠 Problem-Solving Advocate | 🚀 Continuously Learning & Building</h3>
+<h3 align="center">💻 Full-Stack Developer | 🧩 Data Structures Enthusiast | ☕ Java Programmer | 🧠 Passionate About Problem Solving | 🚀 Continuously Learning & Building</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lohith-11&label=Profile%20views&color=0e75b6&style=flat" alt="lohith-11" /> </p>
 
